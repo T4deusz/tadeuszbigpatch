@@ -1,5 +1,6 @@
 # tadeuszbigpatch
 Tadeusz Big Patch is a FC24 patch bringing new leagues and national teams
+
 Added leagues : 
 - The Bulgarian First League (**efbet лига**)
 - French 3rd division (**National**)
@@ -8,3 +9,10 @@ Added leagues :
 - Brazilian 1st Division (**Serie A**)
 - Serbian 1st Divison (**Mozzart Superliga**)
 - Portuguese 2nd Division (**Liga Portugal 2**)
+
+Added national teams :
+- Bulgaria
+- Serbia
+- Russia
+- Greece
+- more soon
